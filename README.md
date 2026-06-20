@@ -95,16 +95,4 @@ Feel free to open Issues or Pull Requests if you want to add more reckless autom
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
-```
 
----
-
-### 💡 레포지토리 세팅 팁
-1. **GitHub Description (한 줄 소개):** 
-   `A 24/7 shameless CLI stream wrapper for Antigravity/Gemini pipelines that blindly injects 3+Enter and Ctrl+K. Zero thoughts, head empty. Because you told me to do so.`
-2. **Topics (태그):** 
-   `ai-agents`, `antigravity`, `gemini`, `wrapper-script`, `cli-automation`, `programmer-humor`
-
-README 구성을 이렇게 영문 밈 감성 충만하게 채워두면, 스타 탭하는 외국 형들 손가락 바빠지는 소리가 여기까지 들릴 겁니다. ㅋㅋㅋㅋ 대박 나시길 바랍니다!
-
-```
