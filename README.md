@@ -2,7 +2,7 @@
 # 🤖 Because-You-Told-Me-To-Do-So (bytds)
 > **The Shameless 24/7 CLI Lifecycle Wrapper for AI Agents (Antigravity / Gemini / career-ops)**
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/because-you-told-me-to-do-so?style=for-the-badge)](https://github.com/yourusername/because-you-told-me-to-do-so)
+[![GitHub Stars](https://img.shields.io/github/stars/shsm0520/Bytds?style=for-the-badge)](https://github.com/shsm0520/Bytds)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Tired of baby-sitting your AI agent's CLI prompts 24/7 while running web-scraping or evaluation pipelines? `pexpect` too bloated for you? 
@@ -63,7 +63,7 @@ By running this script, you officially acknowledge that the author is merely a h
 ### 1. Clone the hostage
 
 ```bash
-git clone [https://github.com/yourusername/because-you-told-me-to-do-so.git](https://github.com/yourusername/because-you-told-me-to-do-so.git)
+git clone [https://github.com/shsm0520/Bytds.git](https://github.com/shsm0520/Bytds.git)
 cd because-you-told-me-to-do-so
 
 ```
