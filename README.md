@@ -1,10 +1,4 @@
-깃허브에서 스타를 쓸어 담을 수 있도록 **스타일리시한 아스키 아트(ASCII Art), 위트 있는 딕션, 그리고 명확한 기술적 구조**를 모두 갖춘 최상급 `README.md` 템플릿을 짜드렸습니다.
 
-이대로 복사해서 레포지토리에 올리시면 됩니다! ㅋㅋㅋㅋ
-
----
-
-```markdown
 # 🤖 Because-You-Told-Me-To-Do-So (bytds)
 > **The Shameless 24/7 CLI Lifecycle Wrapper for AI Agents (Antigravity / Gemini / career-ops)**
 
